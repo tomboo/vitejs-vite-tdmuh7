@@ -2,7 +2,8 @@
 </script>
 
 <template>
-  <h2>ImageGrid</h2>
+  <h2>Image Grid</h2>
+  <hr />
 </template>
 
 <style scoped>
