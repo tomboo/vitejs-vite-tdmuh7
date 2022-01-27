@@ -1,9 +1,11 @@
 <script setup>
+  import NavBar from './components/NavBar.vue'
   import UploadForm from './components/UploadForm.vue'
   import ImageGrid from './components/ImageGrid.vue'
 </script>
 
 <template>
+  <NavBar />
   <UploadForm />
   <ImageGrid />
 </template>
