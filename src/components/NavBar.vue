@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <h1>Vue Gram</h1>
+  <h1>vue-gram1</h1>
   <hr />
 </template>
 
